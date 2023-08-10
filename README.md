@@ -6,11 +6,14 @@
 
 ## Disclaimer
 
-This theme modification is intended solely for educational and personal use. We do not endorse or proclaim any ownership of the original content, logos, or trademarks associated with the platforms or applications for which these themes are designed. The modified themes provided here are not officially affiliated with or endorsed by any entities mentioned.
+This theme modification is provided for educational and personal use only. The background image used in these themes belongs to the creator and is used solely for the purpose of demonstrating theme customization. We do not claim ownership of the original content, logos, or trademarks associated with the platforms or applications for which these themes are designed.
 
-Use these themes at your own discretion and risk. We are not responsible for any consequences resulting from the use of these themes, including but not limited to potential violations of terms of service of the platforms in question.
+These themes are not officially endorsed or affiliated with any entities mentioned, and we do not proclaim any rights to the original content or trademarks.
 
-Please respect the terms of service and intellectual property rights of the platforms you are using. If you have concerns or objections to the content presented here, please contact us to discuss further.
+Please be aware that the modified themes are offered without any guarantees or warranties. Use them at your own discretion and risk. We are not responsible for any consequences resulting from the use of these themes, including potential violations of terms of service of the platforms in question.
 
-By using these themes, you acknowledge that you understand the educational and non-commercial intent behind their creation.
+Respect the terms of service and intellectual property rights of the platforms you are using. If you have concerns about the content presented here, please contact us for further discussion.
+
+By using these themes, you acknowledge that you understand their educational and non-commercial intent, and that the background image belongs to the original creator.
+
 
